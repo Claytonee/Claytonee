@@ -1,0 +1,31 @@
+name: Refresh contribution snake
+
+on:
+  schedule:
+    - cron: "23 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake SVGs into assets/
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit refreshed snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "assets/github-contribution-grid-snake*.svg"
+          message: "chore: refresh contribution snake [skip ci]"
+          default_author: github_actions
