@@ -28,6 +28,14 @@ I build **production systems for education and organizational operations** — m
 | **[pharma-project](https://github.com/Claytonee/pharma-project)** | Django 5 + PostgreSQL pharmacy management system with PDF/Excel reporting and digitally signed documents |
 | **[Rental-Management-System](https://github.com/Claytonee/Rental-Management-System)** | Rental platform for Moshi, Tanzania — user & item management, TZS payments via Stripe |
 
+## ⚡ ASCII showreel
+
+A motion experiment from my lab — real footage of a student mid-run, turned into a living field of characters where light alone decides which glyphs glow.
+
+<p align="center">
+  <img src="./assets/student-ascii.gif" alt="ASCII character field animating a running student" width="430"/>
+</p>
+
 ## 🎯 How I work
 
 - **Multi-tenancy done properly** — every query scoped by tenant; every role sees exactly the schools and records it is permitted to see, and nothing more.
