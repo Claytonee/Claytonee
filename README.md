@@ -30,10 +30,10 @@ I build **production systems for education and organizational operations** — m
 
 ## ⚡ ASCII showreel
 
-A motion experiment from my lab — real footage of a student mid-run, turned into a living field of characters where light alone decides which glyphs glow.
+Full-color ASCII animation — a city street rendered live in characters, light deciding every glyph.
 
 <p align="center">
-  <img src="./assets/ascii-showreel.gif?v=9" alt="ASCII character field animating a running student in Leora cyan" width="100%"/>
+  <img src="./assets/ascii-street-showreel.webp" alt="Full-color ASCII animation of a city street scene" width="100%"/>
 </p>
 
 ## 🎯 How I work
