@@ -33,7 +33,7 @@ I build **production systems for education and organizational operations** — m
 A motion experiment from my lab — real footage of a student mid-run, turned into a living field of characters where light alone decides which glyphs glow.
 
 <p align="center">
-  <img src="./assets/ascii-showreel.gif?v=6" alt="ASCII character field animating a running student in Leora cyan" width="100%"/>
+  <img src="./assets/ascii-showreel.gif?v=7" alt="ASCII character field animating a running student in Leora cyan" width="100%"/>
 </p>
 
 ## 🎯 How I work
