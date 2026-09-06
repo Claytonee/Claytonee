@@ -28,12 +28,12 @@ I build **production systems for education and organizational operations** — m
 | **[pharma-project](https://github.com/Claytonee/pharma-project)** | Django 5 + PostgreSQL pharmacy management system with PDF/Excel reporting and digitally signed documents |
 | **[Rental-Management-System](https://github.com/Claytonee/Rental-Management-System)** | Rental platform for Moshi, Tanzania — user & item management, TZS payments via Stripe |
 
-## ⚡ ASCII showreel
+## ⚡ Liquid Glass showreel
 
-Full-color ASCII animation — a city street rendered live in characters, light deciding every glyph.
+Software that feels like light — my Liquid Glass hero, built in Tanzania.
 
 <p align="center">
-  <img src="./assets/ascii-street-showreel.webp" alt="Full-color ASCII animation of a city street scene" width="100%"/>
+  <img src="./assets/liquid-glass-banner.webp" alt="Liquid Glass hero — Leora Lab" width="100%"/>
 </p>
 
 ## 🎯 How I work
