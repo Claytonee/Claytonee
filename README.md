@@ -28,26 +28,6 @@ I build **production systems for education and organizational operations** — m
 | **[pharma-project](https://github.com/Claytonee/pharma-project)** | Django 5 + PostgreSQL pharmacy management system with PDF/Excel reporting and digitally signed documents |
 | **[Rental-Management-System](https://github.com/Claytonee/Rental-Management-System)** | Rental platform for Moshi, Tanzania — user & item management, TZS payments via Stripe |
 
-## ⚡ Liquid Glass — live
-
-The Liquid Glass hero, running live in production.
-
-<p align="center">
-  <a href="https://pathfindereducation.or.tz/ascii/">
-    <img src="./assets/liquid-glass-hero.png" alt="Liquid Glass hero — Leora Lab — open the live demo" width="100%"/>
-  </a>
-</p>
-
-▶ **[Open the live demo](https://pathfindereducation.or.tz/ascii/)** — pathfindereducation.or.tz/ascii/
-
-## 🌀 ASCII locomotion study
-
-Three studies in motion — a runner, a horse, a cyclist — rendered as a wall of my own source code that lights up where the footage is bright. No filters and no drawing: a glyph's *ink coverage* is chosen by the luminance behind it, so the figure is literally made of the code.
-
-<p align="center">
-  <img src="./assets/ascii-locomotion.gif" alt="ASCII locomotion study — runner, horse and cyclist rendered in glowing cyan characters over a wall of source code" width="100%"/>
-</p>
-
 ## 🎯 How I work
 
 - **Multi-tenancy done properly** — every query scoped by tenant; every role sees exactly the schools and records it is permitted to see, and nothing more.
