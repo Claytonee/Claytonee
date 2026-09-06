@@ -30,10 +30,10 @@ I build **production systems for education and organizational operations** — m
 
 ## ⚡ Liquid Glass showreel
 
-Software that feels like light — my Liquid Glass hero, built in Tanzania.
+The Liquid Glass hero, live in production — Leora School Assistant teacher dashboard.
 
 <p align="center">
-  <img src="./assets/liquid-glass-banner.webp?v=3" alt="Liquid Glass hero — Leora Lab" width="100%"/>
+  <img src="./assets/leora-dashboard-hero.png" alt="Leora School Assistant teacher dashboard — Liquid Glass hero" width="100%"/>
 </p>
 
 ## 🎯 How I work
