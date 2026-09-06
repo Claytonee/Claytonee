@@ -33,7 +33,7 @@ I build **production systems for education and organizational operations** — m
 Software that feels like light — my Liquid Glass hero, built in Tanzania.
 
 <p align="center">
-  <img src="./assets/liquid-glass-banner.webp" alt="Liquid Glass hero — Leora Lab" width="100%"/>
+  <img src="./assets/liquid-glass-banner.webp?v=2" alt="Liquid Glass hero — Leora Lab" width="100%"/>
 </p>
 
 ## 🎯 How I work
