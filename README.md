@@ -28,13 +28,17 @@ I build **production systems for education and organizational operations** — m
 | **[pharma-project](https://github.com/Claytonee/pharma-project)** | Django 5 + PostgreSQL pharmacy management system with PDF/Excel reporting and digitally signed documents |
 | **[Rental-Management-System](https://github.com/Claytonee/Rental-Management-System)** | Rental platform for Moshi, Tanzania — user & item management, TZS payments via Stripe |
 
-## ⚡ Liquid Glass showreel
+## ⚡ Liquid Glass — live
 
-The Liquid Glass hero — Leora Lab.
+The Liquid Glass hero, running live in production.
 
 <p align="center">
-  <img src="./assets/liquid-glass-hero.png" alt="Liquid Glass hero — Leora Lab" width="100%"/>
+  <a href="https://pathfindereducation.or.tz/ascii/">
+    <img src="./assets/liquid-glass-hero.png" alt="Liquid Glass hero — Leora Lab — open the live demo" width="100%"/>
+  </a>
 </p>
+
+▶ **[Open the live demo](https://pathfindereducation.or.tz/ascii/)** — pathfindereducation.or.tz/ascii/
 
 ## 🎯 How I work
 
