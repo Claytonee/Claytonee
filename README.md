@@ -30,10 +30,10 @@ I build **production systems for education and organizational operations** — m
 
 ## ⚡ Liquid Glass showreel
 
-The Liquid Glass hero, live in production — Leora School Assistant teacher dashboard.
+The Liquid Glass hero — Leora Lab.
 
 <p align="center">
-  <img src="./assets/leora-dashboard-hero.png" alt="Leora School Assistant teacher dashboard — Liquid Glass hero" width="100%"/>
+  <img src="./assets/liquid-glass-hero.png" alt="Liquid Glass hero — Leora Lab" width="100%"/>
 </p>
 
 ## 🎯 How I work
